@@ -1,6 +1,6 @@
 -  Hi, I’m Tristan (@PortoPortoPorto) 👋
 -  Emerging full-stack developer with 2 years of self-taught MERN stack experience, after 12 years teaching English.
--  Check out my projects: [lisaporterart.com](https://lisaporterart.com) (e-commerce), [Fitness Tracker](https://github.com/PortoPortoPorto/fitness-tracker) (data viz), and [Snake Game](https://github.com/PortoPortoPorto/snake-app) (retro fun).
+-  Check out my projects: [lisaporterart.com](https://lisaporterart.com) (e-commerce), [Fitness Tracker](https://github.com/PortoPortoPorto/Fitness-app) (data viz), and [Snake Game](https://github.com/PortoPortoPorto/snake2) (retro fun).
 -  Passionate about coding and gaming, now chasing entry-level web dev roles.
 -  Email me: tristanporterrobertson@gmail.com.
 
